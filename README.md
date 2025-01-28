@@ -60,8 +60,3 @@ Path to save the processed video.
 
 Contributions are welcome! Please fork the repository and create a pull request with your feature additions or bug fixes.
 
-
-## Feedback
-If you have any feedback, please reach out to me at abdulhadims11@gmail.com
-
-Feel free to star ⭐ this repository if you find it helpful!
